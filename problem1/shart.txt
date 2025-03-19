@@ -1,1 +1,1 @@
-bitta qatorda matematik amal beriladi shuni natijasini ekranga chiqaruvchi dastur yozing masalan (2+3+5+9+1)/4-5 kiritilganda javob 0 ga teng
+bitta qatorda matematik amal beriladi shuni natijasini ekranga chiqaruvchi dastur yozing masalan (2+3+5+9+1)/4-5 kiritilganda javob 0 ga teng va / bu // natijada olinadi masalan 5/2=2.5 lekin bu bizda 5//2=2 sifatida olinishi kerak bo'ladi 
