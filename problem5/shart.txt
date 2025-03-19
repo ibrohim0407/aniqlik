@@ -1,0 +1,15 @@
+mana 1 oydirkim Asad zombilar orasida yashab kelmoqda yani virus tarqalgan u zombilar qachon uxlashi biladi bilamizkizombilar uxlagandan keyin harakat qila olmaydi shuni bilgan holda unga n,m o'lchamdagi 
+matritsa beriladi yani u yashaydigan shaxar o'lchami va matritsa beriladi 0,1 lardan iborat o'lgan agar 1 bo'lsa demak u yerda zombi bor va u joyga yura olmaydi agar asad faqat 4 tarafga qarab yura oladi yani
+tepaga pastga, o'ng va chapga shartni uzaytirmasdan input qismiga o'tamiz 
+bizga input faylining birinchi qatorida t soni yane testcaselar soni kiritiladi keyingi t ta qatorda n,m matritsa o'lchami va nxm ko'rinishidagi matritsa beriladi va keyingi qatorda x1,y1 kordinatalar beriladi
+yani asad joylashga joy va keyingi qatorda x2,y2 beriladi bu asad borishi kerak bo'lgan kordinata siz endi asad x2,y2 kordinataga yetib bora oladimi yoki yo'qmi shuni chiqarishingiz kerak case ga ham qarashingiz 
+talab etiladi yeni agar javob no bo'lsayu siz No chiqarsangiz bu hato hisblanadi
+input:
+1
+2 2
+0 1
+0 0
+1 1
+2 2
+output:
+Yes chunki 1 1 kordinatadan 2 2 kordinataga borishi iloji bor agar iloji bo'lmasa No chiqaring
