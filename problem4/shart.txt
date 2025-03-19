@@ -1,0 +1,5 @@
+masala sharti shundan iboratki magic city at marmar yotqizilmay qolingan n x m qismi bor siz qilishingiz kerak bo'ladigan ish a x a o'lchamdagi marmarlardan nechta kerak bo'lishini chiqarishdan iborat marmarni sindirish taqiqlanadi shu yerga to'liq marmar yotqizish uchun qancha marmar kerakligini chop eting kirish faylining birinchi qatorida t soni yani testcaselar soni kiritiladi va keyingi t ta qatorda n,m,a kiritiladi siz har bir testcase uchun natijani chop eting  
+input:
+1
+6 6 4
+out: 6
